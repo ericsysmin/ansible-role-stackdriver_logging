@@ -1,6 +1,6 @@
 ---
 galaxy_info:
-  author: Eric Anderson
+  author: ericsysmin
   role_name: stackdriver_logging
   description: Ansible role to install Stackdriver logging agent
   license: Apache-2.0
